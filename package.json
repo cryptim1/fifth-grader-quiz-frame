@@ -1,0 +1,21 @@
+{
+  "name": "fifth-grader-quiz-frame",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.5.4",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "@airstack/node": "^0.0.7",
+    "frog": "^0.17.1",
+    "hono": "^4.5.11"
+  }
+}
